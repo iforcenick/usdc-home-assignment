@@ -1,0 +1,1 @@
+export const usdcAddress = "0xFE724a829fdF12F7012365dB98730EEe33742ea2"
